@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94da3b29.css",
+    "main.js": "/static/js/main.c49e7bf5.js",
+    "static/js/453.117b0875.chunk.js": "/static/js/453.117b0875.chunk.js",
+    "static/media/bg6.png": "/static/media/bg6.4a5059ff6eabeca19bb3.png",
+    "static/media/zaara-website1.png": "/static/media/zaara-website1.10caddbd08bade6aebc2.png",
+    "static/media/section-bg1.png": "/static/media/section-bg1.ba4ebcdc4e1a9fc5c79b.png",
+    "static/media/proj2.png": "/static/media/proj2.75b94c4e6824448568c4.png",
+    "static/media/proj1.png": "/static/media/proj1.5477c1999cb6e4148301.png",
+    "static/media/proj3.png": "/static/media/proj3.f2ac43a4b36a8c6eb194.png",
+    "static/media/card-bg1.png": "/static/media/card-bg1.e4685caab326849804f7.png",
+    "static/media/card-bg2.png": "/static/media/card-bg2.421e062fec3ed6f9f3ed.png",
+    "index.html": "/index.html",
+    "main.94da3b29.css.map": "/static/css/main.94da3b29.css.map",
+    "main.c49e7bf5.js.map": "/static/js/main.c49e7bf5.js.map",
+    "453.117b0875.chunk.js.map": "/static/js/453.117b0875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94da3b29.css",
+    "static/js/main.c49e7bf5.js"
+  ]
+}
