@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { motion, useScroll, useTransform } from "framer-motion";
-import { Menu, X, Github, Linkedin, Mail, ArrowRight, Sparkles, SmileIcon, ExternalLink } from "lucide-react";
+import { Menu, X, Github, Linkedin, Mail, SmileIcon, ExternalLink } from "lucide-react";
 import zaaraImage from './images/zaara-website1.png';
 import proj1 from "./images/proj1.png";
 import proj2 from "./images/proj2.png";
@@ -207,7 +207,6 @@ function About() {
       <div className="container">
         <FadeInWhenVisible>
           <h2 className="section-title">About me</h2>
-    
           <p className = "intro-paragraph">
               I recently graduated from Lehigh University with a degree in <b>Computer Science and Engineering</b>. I love turning complex problems into intuitive, data-driven solutions and creating pretty visualizations.
             </p>
@@ -218,7 +217,6 @@ function About() {
             Outside of coding, I like to spend my time singing, baking, sketching, or learning how to backflip (it's a work in progress).
             </p>
         </FadeInWhenVisible>
-        
       </div>
     </section>
   );
