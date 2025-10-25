@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { motion, useScroll, useTransform } from "framer-motion";
-import { Menu, X, Github, Linkedin, Mail, SmileIcon, ExternalLink } from "lucide-react";
+import { Github, Linkedin, Mail, SmileIcon, ExternalLink } from "lucide-react";
 import zaaraImage from './images/zaara-website1.png';
 import proj1 from "./images/proj1.png";
 import proj2 from "./images/proj2.png";
